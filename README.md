@@ -11,6 +11,11 @@ The control follows the app theme automatically:
 ![The same grid in dark theme](docs/media/control-dark.png)
 
 ---
+# Note
+
+This control wa built using Claude Code. 
+
+---
 
 ## Quick start
 
