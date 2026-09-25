@@ -13,7 +13,7 @@ The control follows the app theme automatically:
 ---
 # Note
 
-This control wa built using Claude Code. 
+This control was built using Claude Code. 
 
 ---
 
